@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+<<<<<<< HEAD
+=======
+env/
+>>>>>>> 0b5c5a3e65facbb7cfc5b7744577780adc47f74a
 build/
 develop-eggs/
 dist/
@@ -78,10 +82,18 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
+<<<<<<< HEAD
 # Environments
 .env
 .venv
 env/
+=======
+# dotenv
+.env
+
+# virtualenv
+.venv
+>>>>>>> 0b5c5a3e65facbb7cfc5b7744577780adc47f74a
 venv/
 ENV/
 
@@ -97,6 +109,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 #data files
 **/model/news_analysis/financial-news-dataset/
+=======
+>>>>>>> 0b5c5a3e65facbb7cfc5b7744577780adc47f74a
